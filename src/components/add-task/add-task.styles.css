@@ -1,0 +1,32 @@
+.add-task-container {
+  width: auto;
+  height: auto;
+  margin: auto auto;
+  display: table;
+  text-align: left;
+  background-color: #7289da;
+  padding: 15px 10px 15px 10px;
+  border-radius: 10px;
+}
+
+.add-task-row {
+  display: table-row;
+}
+
+.add-task,
+.add-task-btn {
+  display: table-cell;
+  padding: 5px;
+}
+
+.add-task-btn {
+  text-align: right;
+}
+
+.add-task-container input {
+  border-radius: 10px;
+  padding: 10px;
+  border: none;
+  font-family: 'Lexend Deca', sans-serif;
+  width: 300px;
+}

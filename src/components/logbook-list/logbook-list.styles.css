@@ -1,0 +1,10 @@
+.logbook-list {
+  height: auto;
+  width: 500px;
+  margin: 10px auto 30px auto;
+  color: #d3d3d3;
+}
+
+.logbook-list .bullet {
+  margin-right: 10px;
+}

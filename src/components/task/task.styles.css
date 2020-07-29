@@ -1,0 +1,27 @@
+.task-item {
+  height: 50px;
+  width: 50%;
+  margin: 20px auto 20px auto;
+  border-radius: 10px;
+  padding: 5px 10px 5px 5px;
+  background-color: #1e2124;
+}
+
+p {
+  text-align: left;
+}
+
+p span {
+  margin: 0 0 0 2px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+p button {
+  float: right;
+  color: white;
+  border: none;
+  background-color: #1e2124;
+}
